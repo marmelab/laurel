@@ -1,3 +1,13 @@
+<table>
+        <tr>
+            <td><img width="60" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/book.svg" alt="publication" /></td>
+            <td><strong>Archived Repository</strong><br />
+            The code of this repository was written to illustrate the blog post <a href="https://marmelab.com/blog/2017/12/14/lets-cook-some-crystal.html">Let's cook some Crystal!</a><br />
+        <strong>This code is not intended to be used in production, and is not maintained.</strong>
+        </td>
+        </tr>
+</table>
+
 # ![laurel](https://github.com/marmelab/laurel/blob/master/laurel.png) laurel
 
 Laurel is a CLI binary tool which provide Caesar Cipher capabilities.
